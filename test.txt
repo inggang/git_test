@@ -10,6 +10,4 @@ git 테스트
 hello
 inbub
 안녕
-
 브런치 테스트
-
