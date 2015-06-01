@@ -7,8 +7,5 @@ remote 생성 추가
 git
 inbub
 git 테스트
-<<<<<<< HEAD
 인법
-=======
 inbub
->>>>>>> test
